@@ -1,0 +1,50 @@
+body {
+  background: #d3cce3;
+}
+
+.yek {
+  text-align: center;
+  margin-top: 60px;
+  font-size: 40px;
+}
+.do {
+  text-align: center;
+  font-size: 20px;
+}
+.a {
+  text-align: center;
+}
+.pa {
+  width: 12px;
+  height: 9px;
+  margin-left: 20px;
+}
+.na {
+  width: 12px;
+  height: 9px;
+  margin-left: 20px;
+}
+.paa {
+  width: 12px;
+  height: 9px;
+  margin-left: 20px;
+}
+.ask {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
+.matn {
+  text-align: center;
+}
+.in {
+  margin-top: 60px;
+  text-align: center;
+}
+.oon {
+  text-align: center;
+}
+.hamin {
+  text-align: center;
+}
